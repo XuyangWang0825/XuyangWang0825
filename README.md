@@ -3,4 +3,5 @@
 - B.E. in Software Engineering @BJUT @BUAA
 - Ex Intern @Meta(Facebook) @SenseTime @Meituan
 
-![My stats](https://github-readme-stats.vercel.app/api?username=xuyangwang0825)
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=xuyangwang0825) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuyangwang0825)
