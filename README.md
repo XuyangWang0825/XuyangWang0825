@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Production Engineer, Warm Storage @Meta
+- Production Engineer @Meta Warm Storage
 - M.S. in Applied Data Science @USC
 - B.E. in Software Engineering @BJUT
 - Ex Intern @Meta(Facebook) @SenseTime @Meituan
